@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 Hi I'm mobile developer!<br>🌱 I’m currently learning Dart, Flutter, Python, HTML, CSS, JS
+👋 Hi I'm Tim <br> 👨🏻‍💻 Mobile developer!<br>🌱 I’m currently learning Dart, Flutter, Python, HTML, CSS, JS
 
 
 ## 🌐 Socials:
