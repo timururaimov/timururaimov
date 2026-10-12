@@ -12,7 +12,7 @@ Building backend systems, REST APIs, and cross-platform mobile applications.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=go,python,dart,flutter,firebase,postgres,mysql,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=go,python,dart,flutter,firebase,postgres,mysql,docker,git," />
 
 </div>
 
