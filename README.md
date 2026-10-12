@@ -1,23 +1,60 @@
-# 💫 About Me:
-👋 Hi I'm Tim <br> 👨🏻‍💻 Mobile developer!<br>🌱 I’m currently learning Dart, Flutter, Python, HTML, CSS, JS
+<div align="center">
 
+# Tim
 
+### Software Engineer · Backend Engineer 
 
+Building backend applications, mobile applications, and digital products.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<br/>
 
-# 📊 GitHub Stats:
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Products;Learning+by+Building;Design+%C3%97+Engineering;From+Kyrgyzstan+to+the+World" />
 
+<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=timururaimov&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,go,python,firebase,mysql,git,vscode,figma" />
+</p>
 
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<br/>
 
+## About
 
----
-[![](https://visitcount.itsvg.in/api?id=timururaimov&icon=0&color=0)](https://visitcount.itsvg.in)
+I build mobile apps and digital products end-to-end — from UX and architecture to launch.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Focused on:
+- scalable Flutter systems
+- minimal product design
+- practical real-world products
+- fast iteration and long-term growth
+
+<br/>
+
+## Current Focus
+Flutter Architecture
+Backend Systems
+Product Strategy
+UX Systems
+English
+GitHub Stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=bayeltashpulatov1&show_icons=true&hide_border=true&theme=transparent" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayeltashpulatov1&layout=compact&hide_border=true&theme=transparent" /> </div> <br/>
+Contribution Flow
+<div align="center"> <img src="https://raw.githubusercontent.com/bayeltashpulatov1/bayeltashpulatov1/output/github-contribution-grid-snake-dark.svg" /> </div> <br/>
+Featured Projects
+📱 Ropemate
+
+Social accountability and consistency app.
+
+🇩🇪 Germany Guide
+
+Practical survival guide for migrants in Germany.
+
+🧠 Germane
+
+German learning platform focused on real conversations and listening.
+
+<br/> <div align="center">
+Building quietly. Improving daily.
+</div>
