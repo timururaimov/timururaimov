@@ -8,7 +8,7 @@ Building backend systems, REST APIs, and cross-platform mobile applications.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Backend+Engineering;REST+APIs+%26+Database+Design;Flutter+%26+Dart+Development;Clean+Architecture;Building+Real-World+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Backend+Engineering;REST+APIs+%26+Database+Design;Flutter+%26+Mobile+Development;Clean+Architecture;Building+Real-World+Products" />
 
 <br/>
 
