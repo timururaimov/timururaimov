@@ -1,18 +1,18 @@
-# Tim — Backend Engineer
+# Tim — Software Engineer
 
 <div align="center">
 
-### Backend Engineer · Go Developer
+### Backend Engineer · Mobile Developer
 
-Building backend systems, APIs, and reliable software.
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Backend+Engineering;Go+%26+REST+APIs;Database+Design;Concurrency+%26+Systems;Learning+by+Building" />
+Building backend systems, REST APIs, and cross-platform mobile applications.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=go,postgres,mysql,redis,docker,linux,git,github,postman" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Backend+Engineering+with+Go;REST+APIs+%26+Database+Design;Flutter+%26+Dart+Development;Clean+Architecture;Building+Real-World+Products" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=go,python,dart,flutter,firebase,postgres,mysql,docker,git,github" />
 
 </div>
 
@@ -20,45 +20,64 @@ Building backend systems, APIs, and reliable software.
 
 ## About Me
 
-I'm a software developer focused on **backend engineering**, building APIs, server-side applications, and practical software products.
+I'm a software engineer focused on **backend development with Go**, with hands-on experience building cross-platform mobile applications using Flutter.
 
-I enjoy understanding how systems work under the hood — from HTTP requests and database queries to concurrency and system design.
+I enjoy building complete software products — from designing mobile interfaces and application architecture to implementing APIs, integrating databases, and connecting frontend applications with backend services.
 
 - Backend development with Go
-- REST API design and implementation
-- Database design and SQL
-- Authentication, middleware, and error handling
-- Concurrency, goroutines, and channels
-- Learning system design and software architecture
+- REST API design, HTTP, JSON, and middleware
+- Database integration and data modeling
+- Cross-platform mobile development with Flutter and Dart
+- State management with Bloc and Cubit
+- Firebase Authentication, Firestore, and Realtime Database
+- Local data persistence with Isar, Hive, and SharedPreferences
+- Maps, geolocation, and real-time application features
+- Clean architecture, debugging, and API integration
 
 ## Tech Stack
 
-**Languages**
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=go,python,dart" />
+<img src="https://skillicons.dev/icons?i=go,python,gin,postgres,mysql,docker,linux,postman" />
 
-**Backend & Databases**
+- Go — REST APIs, HTTP handlers, middleware, concurrency
+- SQL — relational database fundamentals and queries
+- API design, error handling, and request validation
+- Git, Linux, and Docker fundamentals
 
-<img src="https://skillicons.dev/icons?i=gin,postgres,mysql,redis,firebase" />
+### Mobile Development
 
-**Tools & Infrastructure**
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,apple" />
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman" />
+- Flutter & Dart
+- Bloc / Cubit state management
+- Clean Architecture and reusable components
+- Firebase Authentication, Firestore, and Realtime Database
+- Isar, Hive, and SharedPreferences
+- REST API integration
+- Google Maps, geolocation, and route visualization
+- Real-time data updates and application debugging
 
-**Additional Experience**
+### Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+- Git and GitHub
+- VS Code
+- Postman
+- Figma
+- API testing and debugging
 
 ## Current Focus
 
-- Writing clean and maintainable Go code
-- Building REST APIs and backend services
-- Database design and query optimization
-- Concurrency and parallel programming
-- Data structures and algorithms
-- System design and backend architecture
+- Building production-oriented backend services with Go
+- Designing REST APIs and working with databases
+- Learning system design and backend architecture
+- Improving concurrency and performance
+- Strengthening data structures and algorithms
+- Applying backend knowledge to real-world mobile applications
 
-## GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
@@ -80,6 +99,6 @@ I enjoy understanding how systems work under the hood — from HTTP requests and
 
 <div align="center">
 
-**Building systems. Solving problems. Improving every day.**
+**Engineering the backend. Building the product. Improving every day.**
 
 </div>
