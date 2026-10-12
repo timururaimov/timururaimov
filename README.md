@@ -84,9 +84,9 @@ I enjoy building complete software products — from designing mobile interfaces
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=timururaimov&show_icons=true&hide_border=true&theme=transparent" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timururaimov&layout=compact&hide_border=true&theme=transparent" />
-
 </div>
 
+<div align="center">
 **Engineering the backend. Building the product. Improving every day.**
 
 </div>
