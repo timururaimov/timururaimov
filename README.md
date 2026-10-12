@@ -38,7 +38,7 @@ I enjoy building complete software products — from designing mobile interfaces
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=go,python,gin,postgres,mysql,docker,linux,postman" />
+<img src="https://skillicons.dev/icons?i=go,python,postgres,mysql,docker,linux,postman" />
 
 - Go — REST APIs, HTTP handlers, middleware, concurrency
 - SQL — relational database fundamentals and queries
