@@ -42,18 +42,7 @@ GitHub Stats
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=bayeltashpulatov1&show_icons=true&hide_border=true&theme=transparent" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayeltashpulatov1&layout=compact&hide_border=true&theme=transparent" /> </div> <br/>
 Contribution Flow
 <div align="center"> <img src="https://raw.githubusercontent.com/bayeltashpulatov1/bayeltashpulatov1/output/github-contribution-grid-snake-dark.svg" /> </div> <br/>
-Featured Projects
-📱 Ropemate
 
-Social accountability and consistency app.
-
-🇩🇪 Germany Guide
-
-Practical survival guide for migrants in Germany.
-
-🧠 Germane
-
-German learning platform focused on real conversations and listening.
 
 <br/> <div align="center">
 Building quietly. Improving daily.
