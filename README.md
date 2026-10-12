@@ -87,18 +87,6 @@ I enjoy building complete software products — from designing mobile interfaces
 
 </div>
 
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=timururaimov&theme=github-compact&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
 **Engineering the backend. Building the product. Improving every day.**
 
 </div>
