@@ -8,12 +8,12 @@ Building backend applications, mobile applications, and digital products.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Products;Learning+by+Building;Design+%C3%97+Engineering;From+Kyrgyzstan+to+the+World" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Backend+Developer;Flutter+Developer;Learning+by+Building;Design+%C3%97+Engineering;" />
 
 <br/>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,go,python,firebase,mysql,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=go,python,mysql,postgressql,docker,git,flutter,dart,firebase,figm" />
 </p>
 
 </div>
