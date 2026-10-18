@@ -66,7 +66,6 @@ I enjoy building complete software products — from designing mobile interfaces
 - VS Code
 - Postman
 - Figma
-- API testing and debugging
 
 ## Current Focus
 
