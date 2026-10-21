@@ -1,4 +1,4 @@
-# Tim — Software Engineer
+# Tim — Software 
 
 <div align="center">
 
