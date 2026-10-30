@@ -76,7 +76,6 @@ I enjoy building complete software products — from designing mobile interfaces
 - Strengthening data structures and algorithms
 - Applying backend knowledge to real-world mobile applications
 
-## GitHub Statistics
 
 <div align="center">
 
