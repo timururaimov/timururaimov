@@ -47,7 +47,7 @@ I enjoy building complete software products — from designing mobile interfaces
 
 ### Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,ios" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,apple" />
 
 - Flutter & Dart
 - Bloc / Cubit state management
@@ -60,7 +60,7 @@ I enjoy building complete software products — from designing mobile interfaces
 
 ### Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 - Git and GitHub
 - VS Code
@@ -80,10 +80,6 @@ I enjoy building complete software products — from designing mobile interfaces
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=timururaimov&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timururaimov&layout=compact&hide_border=true&theme=transparent" />
-</div>
 
 <div align="center">
 **Engineering the backend. Building the product. Improving every day.**
