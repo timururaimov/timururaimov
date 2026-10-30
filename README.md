@@ -47,7 +47,7 @@ I enjoy building complete software products — from designing mobile interfaces
 
 ### Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,apple" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,ios" />
 
 - Flutter & Dart
 - Bloc / Cubit state management
